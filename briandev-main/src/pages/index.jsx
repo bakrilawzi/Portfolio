@@ -220,7 +220,7 @@ export default function Home({ articles }) {
   return (
     <>
     <NextSeo
-      title="Brian Ketelsen"
+      title="Baker Lawzi"
       description={siteMeta.description}
       canonical="https://brian.dev/"
       openGraph={{
