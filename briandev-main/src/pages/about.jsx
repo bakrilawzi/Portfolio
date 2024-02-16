@@ -75,11 +75,11 @@ export default function About() {
           </div>
           <div className="lg:order-first lg:row-span-2">
             <h1 className="text-4xl font-bold tracking-tight text-zinc-800 dark:text-zinc-100 sm:text-5xl">
-              I&apos;m Baker Lawzi.Data Scientist and Double Major Student , living in Lebanon,Where I am Kicking Start My Career 
+              I&apos;m Baker Lawzi.Data Scientist and Double Major Student , living in Lebanon,Where I Kick  Started My Career 
             </h1>
             <div className="mt-6 text-lg prose space-y-7 dark:prose-invert text-zinc-600 dark:text-zinc-400">
               <p>
-                Howdy! Thanks for stopping by. I&apos;m Baker and I&apos;ve been doing technology
+                greeding!I&apos;m Baker and I&apos;ve been doing technology
                 things since 2 years , The traditional motivational Programers quote &quot;I Turn Coffe into Code :p &quot;. I love Open Source and exploring different programming languages.
                 Some highlights about me and my activities:
               </p>
@@ -87,13 +87,16 @@ export default function About() {
                 <b>Physics Student:</b> Proudly Got my Bachelor in Physics before Moving to technology field
               </p>
               <p>
-                <b>Computer Science Student: </b> Proudly Studying cs and diving deeper inside its Core specially Data Structures and Algorithm
+                <b>Computer Science Student: </b> Proudly Studying CS and diving deeper inside its Core specially Data Structures and Algorithm
               </p>
               <p>
-                <b>Hackathon and Competition: </b> Qualified to the Semi final of imagine Cup(Microsoft) ,One of the Largest Competition of Ai in the world
+                <b>Hackathon and Competition: </b> Qualified to the Semi final of imagine Cup(Microsoft) ,One of the Largest Competition of Artificial Intelligence in the world
               </p>
               <p>
                 I love Open Source, learning in public, and sharing what I learn with others.
+              </p>
+              <p>
+              Thanks for stopping by, and Reading my About!
               </p>
             </div>
           </div>
