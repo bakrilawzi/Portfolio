@@ -29,7 +29,7 @@ export default function Speaking() {
   return (
     <>
     <NextSeo
-      title="Speaking - Brian Ketelsen"
+      title="Speaking - Baker Lawzi"
       description={siteMeta.description}
       canonical="https://brian.dev/speaking"
       openGraph={{
